@@ -10,5 +10,7 @@ gradle
 gradlew
 gradlew.bat
 
-build
-!build/libs
+!build/
+
+build/*
+!build/libs/
